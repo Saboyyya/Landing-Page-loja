@@ -1,54 +1,33 @@
-# 🌸 Belletny - Cosmetics Store Landing Page
+# Belletny — Cosmetics Store Landing Page
 
-Belletny is a modern **cosmetics e-commerce landing page** designed to showcase beauty products with a clean and elegant interface.
+Landing page responsiva desenvolvida para uma loja de cosméticos, com foco em apresentação de produtos, organização visual e experiência do usuário.
 
-This project was created using **HTML and CSS**, focusing on responsive design, modern layout techniques and UI aesthetics suitable for beauty brands.
+O projeto foi desenvolvido utilizando HTML e CSS, aplicando técnicas de layout responsivo para adaptar a interface a diferentes tamanhos de tela.
 
----
+## Funcionalidades
 
-## ✨ Features
+* Layout responsivo para desktop, tablet e mobile
+* Seção principal com destaque promocional
+* Exibição de produtos
+* Cards de categorias
+* Banner promocional
+* Efeitos de hover
+* Tipografia personalizada
+* Organização visual voltada para e-commerce
 
-* Responsive design for **desktop and mobile devices**
-* Modern **cosmetics store layout**
-* Hero section with promotional content
-* Product showcase grid
-* Category cards
-* Promotional banner section
-* Hover animations and UI effects
-* Clean typography using Google Fonts
+## Tecnologias
 
----
+* HTML5
+* CSS3
+* Flexbox
+* CSS Grid
+* Google Fonts
+* Media Queries
 
-## 🛠 Technologies Used
+## Estrutura do Projeto
 
-* **HTML5**
-* **CSS3**
-* **Flexbox**
-* **CSS Grid**
-* **Google Fonts**
-
----
-
-## 📱 Responsive Design
-
-The layout adapts to different screen sizes including:
-
-* Desktop
-* Tablets
-* Mobile devices
-
-Responsive techniques include:
-
-* Flexbox layout adjustments
-* Grid column changes
-* Mobile media queries
-
----
-
-## 📂 Project Structure
-
-```
-Belletny/
+```text
+Landing-Page-loja/
 │
 ├── index.html
 ├── style.css
@@ -66,45 +45,47 @@ Belletny/
     └── pd5.jpg
 ```
 
----
+## Responsividade
 
-## 🎯 Goals of the Project
+A interface foi desenvolvida para funcionar em diferentes dispositivos, utilizando:
 
-This project was created to practice:
+* Flexbox para organização dos elementos
+* CSS Grid para disposição dos produtos e categorias
+* Media Queries para adaptação do layout
+* Ajustes específicos para dispositivos móveis
 
-* UI layout design
-* Responsive web design
-* Product showcase interfaces
-* Clean CSS structure
+## Objetivos do Projeto
 
-It can also serve as a **base template for beauty or cosmetic e-commerce websites**.
+O projeto foi desenvolvido para praticar conceitos de desenvolvimento Front-end, principalmente:
 
----
+* Estruturação de páginas com HTML semântico
+* Desenvolvimento de interfaces responsivas
+* Organização e reutilização de estilos CSS
+* Criação de layouts com Flexbox e CSS Grid
+* Desenvolvimento de interfaces para comércio eletrônico
+* Aplicação de princípios de UI e experiência do usuário
 
-## 🚀 Future Improvements
+## Demonstração
 
-Possible upgrades for future versions:
+O projeto está disponível online:
 
-* Shopping cart functionality
-* Product filtering system
-* Backend integration
-* Payment simulation
-* Dark mode
-* Animations with JavaScript
+[Visualizar projeto](https://landing-page-loja-one.vercel.app/)
 
----
+## Próximas Melhorias
 
-## 📸 Preview
+* [ ] Implementar carrinho de compras
+* [ ] Adicionar filtros de produtos
+* [ ] Criar páginas individuais para os produtos
+* [ ] Integrar um backend
+* [ ] Adicionar sistema de busca
+* [ ] Implementar simulação de pagamento
+* [ ] Adicionar interações utilizando JavaScript
+* [ ] Implementar modo escuro
 
-Landing page concept for a beauty brand featuring product highlights, promotional banners and elegant visual presentation.
+## Autor
 
----
+**Júlio César Saboya**
 
-## 👨‍💻 Author
+Estudante de Sistemas de Informação e desenvolvedor interessado em desenvolvimento Front-end e desenvolvimento web.
 
-Developed by **Júlio César Saboya**
-
-Frontend Developer • Web Development Student
-
----
-
+[GitHub](https://github.com/Saboyyya)
